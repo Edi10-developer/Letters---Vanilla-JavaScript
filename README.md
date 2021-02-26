@@ -1,5 +1,5 @@
 # Letters - Vanilla JavaScript
-## IT Academy
+### IT Academy - Technologies: HTML5, CSS3, Vanilla JavaScript
 
 ## Set ang Get letters in Array
 
@@ -9,11 +9,5 @@
 ![Alt text](./img/model.png?raw=true "Layout")
 
 
-
-|          Technologies         |
-| ------------- | ------------- |
-| HTML5         | CSS3          |
-| JavaScript    |               |
- 
 
 Developed by [Edi Selimi](https://ediselimi.com/).
